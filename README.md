@@ -49,7 +49,7 @@ A total of 25 SQL queries were created for the analysis.
 ## Key Performance Indicators
 
 - Total Sales: 2,297,201.07
-- Total Orders
+- Total Orders: 9995
 - Total Distinct Orders: 5,009
 - Total Customers: 793
 - Total Units Sold: 37,873
